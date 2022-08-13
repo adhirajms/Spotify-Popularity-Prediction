@@ -1,10 +1,10 @@
 # Classifying Spotify Songs
 
-This project is a part of the Data Mining Class (MScA 31008) at the University of Chicago's Master in Science in Analytics Program.  
+This project is a part of the Data Mining Class (MScA 31008) at the University of Chicago's Master's of Science in Analytics Program.  
 
 
 ## Project Intro/Objective
-The purpose of this project is to predict whether a song is popular or not according to Spotify's popularity score. The end goal is to develop a model that analyzes a song holisticaly- multiple features, its lyrics, etc- and is able to predict whether it will be popular or not.  This will help artists and musics producers to focus on particular song components in order to maximize the chances of making their track popular. \
+The purpose of this project is to predict whether a song is popular or not according to Spotify's popularity score. The end goal is to develop a model that analyzes a song holistically and is able to predict whether it will be popular or not. This analysis will help artists and music producers to focus on particular song components that would maximize the chances of their track becoming popular. \
 
 
 ### Methods Used
